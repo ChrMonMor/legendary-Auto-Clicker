@@ -1,0 +1,16 @@
+C:\Users\chri615w\Source\Repos\legendary-Auto-Clicker\Auto-Clicker\bin\Debug\Auto-Clicker.exe.config
+C:\Users\chri615w\Source\Repos\legendary-Auto-Clicker\Auto-Clicker\bin\Debug\Auto-Clicker.exe
+C:\Users\chri615w\Source\Repos\legendary-Auto-Clicker\Auto-Clicker\bin\Debug\Auto-Clicker.pdb
+C:\Users\chri615w\Source\Repos\legendary-Auto-Clicker\Auto-Clicker\obj\Debug\Auto-Clicker.csproj.AssemblyReference.cache
+C:\Users\chri615w\Source\Repos\legendary-Auto-Clicker\Auto-Clicker\obj\Debug\Auto-Clicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\chri615w\Source\Repos\legendary-Auto-Clicker\Auto-Clicker\obj\Debug\MainWindow.g.cs
+C:\Users\chri615w\Source\Repos\legendary-Auto-Clicker\Auto-Clicker\obj\Debug\App.g.cs
+C:\Users\chri615w\Source\Repos\legendary-Auto-Clicker\Auto-Clicker\obj\Debug\Auto-Clicker_MarkupCompile.cache
+C:\Users\chri615w\Source\Repos\legendary-Auto-Clicker\Auto-Clicker\obj\Debug\Auto-Clicker_MarkupCompile.lref
+C:\Users\chri615w\Source\Repos\legendary-Auto-Clicker\Auto-Clicker\obj\Debug\MainWindow.baml
+C:\Users\chri615w\Source\Repos\legendary-Auto-Clicker\Auto-Clicker\obj\Debug\Auto-Clicker.g.resources
+C:\Users\chri615w\Source\Repos\legendary-Auto-Clicker\Auto-Clicker\obj\Debug\Auto_Clicker.Properties.Resources.resources
+C:\Users\chri615w\Source\Repos\legendary-Auto-Clicker\Auto-Clicker\obj\Debug\Auto-Clicker.csproj.GenerateResource.cache
+C:\Users\chri615w\Source\Repos\legendary-Auto-Clicker\Auto-Clicker\obj\Debug\Auto-Clicker.csproj.CoreCompileInputs.cache
+C:\Users\chri615w\Source\Repos\legendary-Auto-Clicker\Auto-Clicker\obj\Debug\Auto-Clicker.exe
+C:\Users\chri615w\Source\Repos\legendary-Auto-Clicker\Auto-Clicker\obj\Debug\Auto-Clicker.pdb
