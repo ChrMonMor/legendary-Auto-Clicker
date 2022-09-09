@@ -26,6 +26,21 @@ namespace Auto_Clicker
         {
             InitializeComponent();
             dispatcherTimer.Tick += new EventHandler(dispatcherTimer_Tick); 
+            KeyDown += new KeyEventHandler(MainWindow_KeyDown);
+        }
+
+        private void MainWindow_KeyDown(object sender, KeyEventArgs e)
+        {
+            if(e.Key == Key.D1)
+            {
+                dispatcherTimer.Stop();
+                stop = true;
+            }
+            if (e.Key == Key.D2)
+            {
+                dispatcherTimer.Start();
+                stop = false;
+            }
         }
 
         [DllImport("user32.dll")]
@@ -40,7 +55,7 @@ namespace Auto_Clicker
             leftDown = 2,
             leftUp = 4,
         }
-
+        
         public void leftclick(Point p)
         {
             mouse_event((int)(mouseeventflags.leftDown), (int)p.X, (int)p.Y, 0, 0);
@@ -48,7 +63,7 @@ namespace Auto_Clicker
         }
 
         bool stop = true;
-
+        
         private void button_Click(object sender, RoutedEventArgs e)
         {
             stop = (stop) ? false : true;
@@ -68,5 +83,12 @@ namespace Auto_Clicker
             leftclick(new Point(pointToScreen.X, pointToScreen.Y));
         }
 
+        int click = 0;
+
+        private void buttonClickMe_Click(object sender, RoutedEventArgs e)
+        {
+            click++;
+            labelClicks.Content = click;
+        }
     }
 }
